@@ -1,0 +1,264 @@
+fileFormatVersion: 2
+guid: ee5ecd1c40097f64892bbbfa3bd956d9
+timeCreated: 1508880835
+licenseType: Free
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Cornea_Ojo_DER
+    100004: Cornea_Ojo_IZQ
+    100006: JNT_Anular_Mano_DER_001
+    100008: JNT_Anular_Mano_DER_002
+    100010: JNT_Anular_Mano_DER_003
+    100012: JNT_Anular_Mano_DER_004
+    100014: JNT_Anular_Mano_IZQ_001
+    100016: JNT_Anular_Mano_IZQ_002
+    100018: JNT_Anular_Mano_IZQ_003
+    100020: JNT_Anular_Mano_IZQ_004
+    100022: JNT_Cabeza_001
+    100024: JNT_Cadera_DER
+    100026: JNT_Cadera_IZQ
+    100028: JNT_Cervical_001
+    100030: JNT_Clavicula_001
+    100032: JNT_Clavicula_DER_001
+    100034: JNT_Clavicula_DER_002
+    100036: JNT_Clavicula_IZQ_001
+    100038: JNT_Clavicula_IZQ_002
+    100040: JNT_Codo_DER_001
+    100042: JNT_Codo_IZQ_001
+    100044: JNT_Corazon_Mano_DER_001
+    100046: JNT_Corazon_Mano_DER_002
+    100048: JNT_Corazon_Mano_DER_003
+    100050: JNT_Corazon_Mano_DER_004
+    100052: JNT_Corazon_Mano_IZQ_001
+    100054: JNT_Corazon_Mano_IZQ_002
+    100056: JNT_Corazon_Mano_IZQ_003
+    100058: JNT_Corazon_Mano_IZQ_004
+    100060: JNT_Coronilla_001
+    100062: JNT_Cuello_001
+    100064: JNT_Hombro_DER_001
+    100066: JNT_Hombro_IZQ_001
+    100068: JNT_Indice_Mano_DER_001
+    100070: JNT_Indice_Mano_DER_002
+    100072: JNT_Indice_Mano_DER_003
+    100074: JNT_Indice_Mano_DER_004
+    100076: JNT_Indice_Mano_IZQ_001
+    100078: JNT_Indice_Mano_IZQ_002
+    100080: JNT_Indice_Mano_IZQ_003
+    100082: JNT_Indice_Mano_IZQ_004
+    100084: JNT_Lumbar_001
+    100086: JNT_Menique_Mano_DER_001
+    100088: JNT_Menique_Mano_DER_002
+    100090: JNT_Menique_Mano_DER_003
+    100092: JNT_Menique_Mano_DER_004
+    100094: JNT_Menique_Mano_IZQ_001
+    100096: JNT_Menique_Mano_IZQ_002
+    100098: JNT_Menique_Mano_IZQ_003
+    100100: JNT_Menique_Mano_IZQ_004
+    100102: JNt_Muneca_DER_001
+    100104: JNt_Muneca_IZQ_001
+    100106: JNT_Ojo_DER_001
+    100108: JNT_Ojo_DER_002
+    100110: JNT_Ojo_IZQ_001
+    100112: JNT_Ojo_IZQ_002
+    100114: JNT_Pelvis_001
+    100116: JNT_Pelvis_001 1
+    100118: JNT_Pie_DER
+    100120: JNT_Pie_IZQ
+    100122: JNT_Planta_Mano_DER_001
+    100124: JNT_Planta_Mano_IZQ_001
+    100126: JNT_Planta_Pie_DER
+    100128: JNT_Planta_Pie_IZQ
+    100130: JNT_Pulgar_Mano_DER_001
+    100132: JNT_Pulgar_Mano_DER_002
+    100134: JNT_Pulgar_Mano_DER_003
+    100136: JNT_Pulgar_Mano_DER_004
+    100138: JNT_Pulgar_Mano_IZQ_001
+    100140: JNT_Pulgar_Mano_IZQ_002
+    100142: JNT_Pulgar_Mano_IZQ_003
+    100144: JNT_Pulgar_Mano_IZQ_004
+    100146: JNT_Rodilla_DER
+    100148: JNT_Rodilla_IZQ
+    100150: JNT_Root
+    100152: JNT_Tobillo_DER
+    100154: JNT_Tobillo_DER_001
+    100156: JNT_Tobillo_IZQ
+    100158: JNT_Tobillo_IZQ_001
+    100160: JNT_Torturador
+    100162: Retina_Ojo_DER
+    100164: Retina_Ojo_IZQ
+    100166: Torturador
+    100168: Torturdor
+    400000: //RootNode
+    400002: Cornea_Ojo_DER
+    400004: Cornea_Ojo_IZQ
+    400006: JNT_Anular_Mano_DER_001
+    400008: JNT_Anular_Mano_DER_002
+    400010: JNT_Anular_Mano_DER_003
+    400012: JNT_Anular_Mano_DER_004
+    400014: JNT_Anular_Mano_IZQ_001
+    400016: JNT_Anular_Mano_IZQ_002
+    400018: JNT_Anular_Mano_IZQ_003
+    400020: JNT_Anular_Mano_IZQ_004
+    400022: JNT_Cabeza_001
+    400024: JNT_Cadera_DER
+    400026: JNT_Cadera_IZQ
+    400028: JNT_Cervical_001
+    400030: JNT_Clavicula_001
+    400032: JNT_Clavicula_DER_001
+    400034: JNT_Clavicula_DER_002
+    400036: JNT_Clavicula_IZQ_001
+    400038: JNT_Clavicula_IZQ_002
+    400040: JNT_Codo_DER_001
+    400042: JNT_Codo_IZQ_001
+    400044: JNT_Corazon_Mano_DER_001
+    400046: JNT_Corazon_Mano_DER_002
+    400048: JNT_Corazon_Mano_DER_003
+    400050: JNT_Corazon_Mano_DER_004
+    400052: JNT_Corazon_Mano_IZQ_001
+    400054: JNT_Corazon_Mano_IZQ_002
+    400056: JNT_Corazon_Mano_IZQ_003
+    400058: JNT_Corazon_Mano_IZQ_004
+    400060: JNT_Coronilla_001
+    400062: JNT_Cuello_001
+    400064: JNT_Hombro_DER_001
+    400066: JNT_Hombro_IZQ_001
+    400068: JNT_Indice_Mano_DER_001
+    400070: JNT_Indice_Mano_DER_002
+    400072: JNT_Indice_Mano_DER_003
+    400074: JNT_Indice_Mano_DER_004
+    400076: JNT_Indice_Mano_IZQ_001
+    400078: JNT_Indice_Mano_IZQ_002
+    400080: JNT_Indice_Mano_IZQ_003
+    400082: JNT_Indice_Mano_IZQ_004
+    400084: JNT_Lumbar_001
+    400086: JNT_Menique_Mano_DER_001
+    400088: JNT_Menique_Mano_DER_002
+    400090: JNT_Menique_Mano_DER_003
+    400092: JNT_Menique_Mano_DER_004
+    400094: JNT_Menique_Mano_IZQ_001
+    400096: JNT_Menique_Mano_IZQ_002
+    400098: JNT_Menique_Mano_IZQ_003
+    400100: JNT_Menique_Mano_IZQ_004
+    400102: JNt_Muneca_DER_001
+    400104: JNt_Muneca_IZQ_001
+    400106: JNT_Ojo_DER_001
+    400108: JNT_Ojo_DER_002
+    400110: JNT_Ojo_IZQ_001
+    400112: JNT_Ojo_IZQ_002
+    400114: JNT_Pelvis_001
+    400116: JNT_Pelvis_001 1
+    400118: JNT_Pie_DER
+    400120: JNT_Pie_IZQ
+    400122: JNT_Planta_Mano_DER_001
+    400124: JNT_Planta_Mano_IZQ_001
+    400126: JNT_Planta_Pie_DER
+    400128: JNT_Planta_Pie_IZQ
+    400130: JNT_Pulgar_Mano_DER_001
+    400132: JNT_Pulgar_Mano_DER_002
+    400134: JNT_Pulgar_Mano_DER_003
+    400136: JNT_Pulgar_Mano_DER_004
+    400138: JNT_Pulgar_Mano_IZQ_001
+    400140: JNT_Pulgar_Mano_IZQ_002
+    400142: JNT_Pulgar_Mano_IZQ_003
+    400144: JNT_Pulgar_Mano_IZQ_004
+    400146: JNT_Rodilla_DER
+    400148: JNT_Rodilla_IZQ
+    400150: JNT_Root
+    400152: JNT_Tobillo_DER
+    400154: JNT_Tobillo_DER_001
+    400156: JNT_Tobillo_IZQ
+    400158: JNT_Tobillo_IZQ_001
+    400160: JNT_Torturador
+    400162: Retina_Ojo_DER
+    400164: Retina_Ojo_IZQ
+    400166: Torturador
+    400168: Torturdor
+    4300000: Torturador
+    4300002: Cornea_Ojo_DER
+    4300004: Retina_Ojo_DER
+    4300006: Cornea_Ojo_IZQ
+    4300008: Retina_Ojo_IZQ
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: Cornea_Ojo_DER
+    13700002: Cornea_Ojo_IZQ
+    13700004: Retina_Ojo_DER
+    13700006: Retina_Ojo_IZQ
+    13700008: Torturador
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,184 @@
+fileFormatVersion: 2
+guid: 72518c381e388bc48ad2e5784d32a412
+timeCreated: 1508880831
+licenseType: Free
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: Base_Sonajero
+    100002: Chupo
+    100004: //RootNode
+    100006: hacha_Sonajero_001
+    100008: hacha_Sonajero_002
+    100010: hacha_Sonajero_003
+    100012: Partes_Del_Chupo
+    100014: Partes_Del_Chupo1
+    100016: Partes_Del_Chupo2
+    100018: Partes_Del_Chupo3
+    100020: Puas_Chupo_001
+    100022: Puas_Chupo_002
+    100024: Puas_Chupo_003
+    100026: Puas_Chupo_004
+    100028: Puas_Chupo_005
+    100030: Puas_Chupo_006
+    100032: Puas_Chupo_007
+    100034: Puas_Sonajero_001
+    100036: Puas_Sonajero_002
+    100038: Puas_Sonajero_003
+    100040: Puas_Sonajero_004
+    100042: Sonajero
+    400000: Base_Sonajero
+    400002: Chupo
+    400004: //RootNode
+    400006: hacha_Sonajero_001
+    400008: hacha_Sonajero_002
+    400010: hacha_Sonajero_003
+    400012: Partes_Del_Chupo
+    400014: Partes_Del_Chupo1
+    400016: Partes_Del_Chupo2
+    400018: Partes_Del_Chupo3
+    400020: Puas_Chupo_001
+    400022: Puas_Chupo_002
+    400024: Puas_Chupo_003
+    400026: Puas_Chupo_004
+    400028: Puas_Chupo_005
+    400030: Puas_Chupo_006
+    400032: Puas_Chupo_007
+    400034: Puas_Sonajero_001
+    400036: Puas_Sonajero_002
+    400038: Puas_Sonajero_003
+    400040: Puas_Sonajero_004
+    400042: Sonajero
+    2300000: Base_Sonajero
+    2300002: hacha_Sonajero_001
+    2300004: hacha_Sonajero_002
+    2300006: hacha_Sonajero_003
+    2300008: Partes_Del_Chupo
+    2300010: Partes_Del_Chupo1
+    2300012: Partes_Del_Chupo2
+    2300014: Partes_Del_Chupo3
+    2300016: Puas_Chupo_001
+    2300018: Puas_Chupo_002
+    2300020: Puas_Chupo_003
+    2300022: Puas_Chupo_004
+    2300024: Puas_Chupo_005
+    2300026: Puas_Chupo_006
+    2300028: Puas_Chupo_007
+    2300030: Puas_Sonajero_001
+    2300032: Puas_Sonajero_002
+    2300034: Puas_Sonajero_003
+    2300036: Puas_Sonajero_004
+    3300000: Base_Sonajero
+    3300002: hacha_Sonajero_001
+    3300004: hacha_Sonajero_002
+    3300006: hacha_Sonajero_003
+    3300008: Partes_Del_Chupo
+    3300010: Partes_Del_Chupo1
+    3300012: Partes_Del_Chupo2
+    3300014: Partes_Del_Chupo3
+    3300016: Puas_Chupo_001
+    3300018: Puas_Chupo_002
+    3300020: Puas_Chupo_003
+    3300022: Puas_Chupo_004
+    3300024: Puas_Chupo_005
+    3300026: Puas_Chupo_006
+    3300028: Puas_Chupo_007
+    3300030: Puas_Sonajero_001
+    3300032: Puas_Sonajero_002
+    3300034: Puas_Sonajero_003
+    3300036: Puas_Sonajero_004
+    4300000: Partes_Del_Chupo
+    4300002: Partes_Del_Chupo1
+    4300004: Partes_Del_Chupo2
+    4300006: Partes_Del_Chupo3
+    4300008: Puas_Chupo_001
+    4300010: Puas_Chupo_002
+    4300012: Puas_Chupo_003
+    4300014: Puas_Chupo_004
+    4300016: Puas_Chupo_005
+    4300018: Puas_Chupo_006
+    4300020: Puas_Chupo_007
+    4300022: Base_Sonajero
+    4300024: hacha_Sonajero_001
+    4300026: hacha_Sonajero_002
+    4300028: hacha_Sonajero_003
+    4300030: Puas_Sonajero_001
+    4300032: Puas_Sonajero_002
+    4300034: Puas_Sonajero_003
+    4300036: Puas_Sonajero_004
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

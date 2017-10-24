@@ -1,0 +1,184 @@
+fileFormatVersion: 2
+guid: e879348c05d6e56479e445c654868276
+timeCreated: 1508880832
+licenseType: Free
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: Base_Central_Centro_Reloj_001
+    100002: Base_Cilindrica_Pendulo_001
+    100004: Base_Cilindrica_Segundero_Minutero_Horario_001
+    100006: Base_Inferior_Centro_Reloj_001
+    100008: Base_Inferior_Reloj_001
+    100010: Base_Pendulos_Reloj_001
+    100012: Base_Pendulos_Reloj_002
+    100014: Base_Pendulos_Reloj_003
+    100016: Base_Superior_Centro_Reloj_001
+    100018: Base_Superior_Reloj_001
+    100020: Base_Superior_Reloj_002
+    100022: Manija_Horario_001
+    100024: Manija_Minutero_001
+    100026: Manija_Segundero_001
+    100028: //RootNode
+    100030: Soporte_Cilindrica_DER_Reloj_001
+    100032: Soporte_Cilindrica_IZQ_Reloj_001
+    100034: Soporte_Manijas_Segundero_Minutero_Horario
+    100036: Soporte_Ractangular_DER_001
+    100038: Soporte_Ractangular_IZQ_001
+    100040: Vidrio_Deloj
+    400000: Base_Central_Centro_Reloj_001
+    400002: Base_Cilindrica_Pendulo_001
+    400004: Base_Cilindrica_Segundero_Minutero_Horario_001
+    400006: Base_Inferior_Centro_Reloj_001
+    400008: Base_Inferior_Reloj_001
+    400010: Base_Pendulos_Reloj_001
+    400012: Base_Pendulos_Reloj_002
+    400014: Base_Pendulos_Reloj_003
+    400016: Base_Superior_Centro_Reloj_001
+    400018: Base_Superior_Reloj_001
+    400020: Base_Superior_Reloj_002
+    400022: Manija_Horario_001
+    400024: Manija_Minutero_001
+    400026: Manija_Segundero_001
+    400028: //RootNode
+    400030: Soporte_Cilindrica_DER_Reloj_001
+    400032: Soporte_Cilindrica_IZQ_Reloj_001
+    400034: Soporte_Manijas_Segundero_Minutero_Horario
+    400036: Soporte_Ractangular_DER_001
+    400038: Soporte_Ractangular_IZQ_001
+    400040: Vidrio_Deloj
+    2300000: Base_Central_Centro_Reloj_001
+    2300002: Base_Cilindrica_Pendulo_001
+    2300004: Base_Cilindrica_Segundero_Minutero_Horario_001
+    2300006: Base_Inferior_Centro_Reloj_001
+    2300008: Base_Inferior_Reloj_001
+    2300010: Base_Pendulos_Reloj_001
+    2300012: Base_Pendulos_Reloj_002
+    2300014: Base_Pendulos_Reloj_003
+    2300016: Base_Superior_Centro_Reloj_001
+    2300018: Base_Superior_Reloj_001
+    2300020: Base_Superior_Reloj_002
+    2300022: Manija_Horario_001
+    2300024: Manija_Minutero_001
+    2300026: Manija_Segundero_001
+    2300028: Soporte_Cilindrica_DER_Reloj_001
+    2300030: Soporte_Cilindrica_IZQ_Reloj_001
+    2300032: Soporte_Manijas_Segundero_Minutero_Horario
+    2300034: Soporte_Ractangular_DER_001
+    2300036: Soporte_Ractangular_IZQ_001
+    2300038: Vidrio_Deloj
+    3300000: Base_Central_Centro_Reloj_001
+    3300002: Base_Cilindrica_Pendulo_001
+    3300004: Base_Cilindrica_Segundero_Minutero_Horario_001
+    3300006: Base_Inferior_Centro_Reloj_001
+    3300008: Base_Inferior_Reloj_001
+    3300010: Base_Pendulos_Reloj_001
+    3300012: Base_Pendulos_Reloj_002
+    3300014: Base_Pendulos_Reloj_003
+    3300016: Base_Superior_Centro_Reloj_001
+    3300018: Base_Superior_Reloj_001
+    3300020: Base_Superior_Reloj_002
+    3300022: Manija_Horario_001
+    3300024: Manija_Minutero_001
+    3300026: Manija_Segundero_001
+    3300028: Soporte_Cilindrica_DER_Reloj_001
+    3300030: Soporte_Cilindrica_IZQ_Reloj_001
+    3300032: Soporte_Manijas_Segundero_Minutero_Horario
+    3300034: Soporte_Ractangular_DER_001
+    3300036: Soporte_Ractangular_IZQ_001
+    3300038: Vidrio_Deloj
+    4300000: Soporte_Cilindrica_IZQ_Reloj_001
+    4300002: Soporte_Cilindrica_DER_Reloj_001
+    4300004: Base_Inferior_Reloj_001
+    4300006: Soporte_Ractangular_DER_001
+    4300008: Soporte_Ractangular_IZQ_001
+    4300010: Base_Superior_Centro_Reloj_001
+    4300012: Base_Central_Centro_Reloj_001
+    4300014: Base_Inferior_Centro_Reloj_001
+    4300016: Base_Superior_Reloj_001
+    4300018: Base_Superior_Reloj_002
+    4300020: Base_Cilindrica_Segundero_Minutero_Horario_001
+    4300022: Base_Pendulos_Reloj_001
+    4300024: Base_Pendulos_Reloj_002
+    4300026: Base_Pendulos_Reloj_003
+    4300028: Base_Cilindrica_Pendulo_001
+    4300030: Soporte_Manijas_Segundero_Minutero_Horario
+    4300032: Manija_Horario_001
+    4300034: Manija_Minutero_001
+    4300036: Manija_Segundero_001
+    4300038: Vidrio_Deloj
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
