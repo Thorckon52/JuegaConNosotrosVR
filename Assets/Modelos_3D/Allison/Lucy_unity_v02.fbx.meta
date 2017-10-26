@@ -1,0 +1,273 @@
+fileFormatVersion: 2
+guid: 51deff61e79f84c41a0f16ff9ae8a84f
+timeCreated: 1508982409
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Geometries
+    100002: Helix_blend_shape
+    100004: iks01
+    100006: joint11
+    100008: joint13
+    100010: joint13 1
+    100012: joint14
+    100014: joint14 1
+    100016: joint16
+    100018: joint17
+    100020: joint19
+    100022: joint20
+    100024: joint4
+    100026: joint4 1
+    100028: joint5
+    100030: joint5 1
+    100032: joint7
+    100034: left
+    100036: Lucy_accesory_cuerda
+    100038: Lucy_B_Skirt01
+    100040: lucy_Back01
+    100042: Lucy_body_model
+    100044: Lucy_chest01
+    100046: Lucy_Ctrl
+    100048: Lucy_Ctrl 1
+    100050: Lucy_Ctrl1
+    100052: Lucy_Ctrl13
+    100054: Lucy_Ctrl2
+    100056: Lucy_Ctrl4
+    100058: Lucy_Ctrl7
+    100060: Lucy_Ctrl8
+    100062: Lucy_Ctrl9
+    100064: Lucy_Ctrl_Cuerda
+    100066: Lucy_Ctrl_Head
+    100068: Lucy_Ctrl_pelvis
+    100070: Lucy_Ctrlshoulder
+    100072: Lucy_F_Skirt01
+    100074: Lucy_head_model
+    100076: Lucy_Joint_cabeza
+    100078: Lucy_Joint_Cuerda
+    100080: Lucy_L_arm01
+    100082: Lucy_L_arm_ik01
+    100084: Lucy_L_clavicle01
+    100086: Lucy_L_elbow01
+    100088: Lucy_L_knee
+    100090: Lucy_L_knee_ik01
+    100092: Lucy_L_leg
+    100094: Lucy_L_Shoulder
+    100096: Lucy_L_Skirt01
+    100098: Lucy_L_toe
+    100100: Lucy_L_wrist01
+    100102: Lucy_pelvis01
+    100104: Lucy_pHelix1
+    100106: Lucy_pHelix2
+    100108: Lucy_R_arm01
+    100110: Lucy_R_arm_ik01
+    100112: Lucy_R_clavicle01
+    100114: Lucy_R_elbow01
+    100116: Lucy_R_knee
+    100118: Lucy_R_knee_ik01
+    100120: Lucy_R_leg
+    100122: Lucy_R_Shoulder
+    100124: Lucy_R_Skirt01
+    100126: Lucy_R_toe
+    100128: Lucy_R_wrist01
+    100130: Lucy_root01
+    100132: //RootNode
+    100134: skeleton01
+    400000: Geometries
+    400002: Helix_blend_shape
+    400004: iks01
+    400006: joint11
+    400008: joint13
+    400010: joint13 1
+    400012: joint14
+    400014: joint14 1
+    400016: joint16
+    400018: joint17
+    400020: joint19
+    400022: joint20
+    400024: joint4
+    400026: joint4 1
+    400028: joint5
+    400030: joint5 1
+    400032: joint7
+    400034: left
+    400036: Lucy_accesory_cuerda
+    400038: Lucy_B_Skirt01
+    400040: lucy_Back01
+    400042: Lucy_body_model
+    400044: Lucy_chest01
+    400046: Lucy_Ctrl
+    400048: Lucy_Ctrl 1
+    400050: Lucy_Ctrl1
+    400052: Lucy_Ctrl13
+    400054: Lucy_Ctrl2
+    400056: Lucy_Ctrl4
+    400058: Lucy_Ctrl7
+    400060: Lucy_Ctrl8
+    400062: Lucy_Ctrl9
+    400064: Lucy_Ctrl_Cuerda
+    400066: Lucy_Ctrl_Head
+    400068: Lucy_Ctrl_pelvis
+    400070: Lucy_Ctrlshoulder
+    400072: Lucy_F_Skirt01
+    400074: Lucy_head_model
+    400076: Lucy_Joint_cabeza
+    400078: Lucy_Joint_Cuerda
+    400080: Lucy_L_arm01
+    400082: Lucy_L_arm_ik01
+    400084: Lucy_L_clavicle01
+    400086: Lucy_L_elbow01
+    400088: Lucy_L_knee
+    400090: Lucy_L_knee_ik01
+    400092: Lucy_L_leg
+    400094: Lucy_L_Shoulder
+    400096: Lucy_L_Skirt01
+    400098: Lucy_L_toe
+    400100: Lucy_L_wrist01
+    400102: Lucy_pelvis01
+    400104: Lucy_pHelix1
+    400106: Lucy_pHelix2
+    400108: Lucy_R_arm01
+    400110: Lucy_R_arm_ik01
+    400112: Lucy_R_clavicle01
+    400114: Lucy_R_elbow01
+    400116: Lucy_R_knee
+    400118: Lucy_R_knee_ik01
+    400120: Lucy_R_leg
+    400122: Lucy_R_Shoulder
+    400124: Lucy_R_Skirt01
+    400126: Lucy_R_toe
+    400128: Lucy_R_wrist01
+    400130: Lucy_root01
+    400132: //RootNode
+    400134: skeleton01
+    2000000: left
+    2300000: Lucy_pHelix1
+    3300000: Lucy_pHelix1
+    4300000: Lucy_accesory_cuerda
+    4300002: Lucy_head_model
+    4300004: Lucy_body_model
+    4300006: Lucy_pHelix2
+    4300008: Lucy_pHelix1
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: Lucy_accesory_cuerda
+    13700002: Lucy_body_model
+    13700004: Lucy_head_model
+    13700006: Lucy_pHelix2
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: blinn1
+    second: {fileID: 2100000, guid: 4e969a04f3a922244922f38267b4c7bb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lucy_textura_lambert
+    second: {fileID: 2100000, guid: 4e969a04f3a922244922f38267b4c7bb, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 903
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
