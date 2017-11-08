@@ -1,0 +1,676 @@
+fileFormatVersion: 2
+guid: e73954f7950299544bfc198cff0fe4cc
+timeCreated: 1510099557
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Lampara_Colgante
+    100004: Lampara_Colgante1
+    100006: Lampara_Colgante2
+    100008: Lampara_Colgante3
+    100010: Lampara_Colgante4
+    100012: Lampara_Colgante5
+    100014: Lampara_Colgante6
+    100016: Lampara_Colgante7
+    100018: Lampara_Colgante8
+    100020: Lamparas_Hab_Orfanato
+    100022: Manija_Metalica_Puerta_Hab_Orfanato_001_1
+    100024: Manija_Metalica_Puerta_Hab_Orfanato_001_1 1
+    100026: Manija_Metalica_Puerta_Hab_Orfanato_001_1 2
+    100028: Manija_Metalica_Puerta_Hab_Orfanato_001_2
+    100030: Manija_Metalica_Puerta_Hab_Orfanato_001_2 1
+    100032: Manija_Metalica_Puerta_Hab_Orfanato_001_2 2
+    100034: Manija_Metalica_Puerta_Hab_Orfanato_001_3
+    100036: Manija_Metalica_Puerta_Hab_Orfanato_001_3 1
+    100038: Manija_Metalica_Puerta_Hab_Orfanato_001_3 2
+    100040: Manija_Metalica_Puerta_Hab_Orfanato_001_4
+    100042: Manija_Metalica_Puerta_Hab_Orfanato_001_4 1
+    100044: Manija_Metalica_Puerta_Hab_Orfanato_001_4 2
+    100046: Manija_Metalica_Puerta_Hab_Orfanato_001_5
+    100048: Manija_Metalica_Puerta_Hab_Orfanato_001_5 1
+    100050: Manija_Metalica_Puerta_Hab_Orfanato_001_5 2
+    100052: Manija_Metalica_Puerta_Hab_Orfanato_001_6
+    100054: Manija_Metalica_Puerta_Hab_Orfanato_001_6 1
+    100056: Manija_Metalica_Puerta_Hab_Orfanato_001_6 2
+    100058: Manija_Metalica_Puerta_Hab_Orfanato_001_7
+    100060: Manija_Metalica_Puerta_Hab_Orfanato_001_7 1
+    100062: Manija_Metalica_Puerta_Hab_Orfanato_001_7 2
+    100064: Marco_Puerta_Hab_Orfanato_001
+    100066: Marco_Puerta_Hab_Orfanato_001 1
+    100068: Marco_Puerta_Hab_Orfanato_001 2
+    100070: Marco_Ventana_Habitacion_Orfanato_001_1
+    100072: Marco_Ventana_Habitacion_Orfanato_001_1 1
+    100074: Marco_Ventana_Habitacion_Orfanato_001_1 2
+    100076: Marco_Ventana_Habitacion_Orfanato_001_2
+    100078: Marco_Ventana_Habitacion_Orfanato_001_2 1
+    100080: Marco_Ventana_Habitacion_Orfanato_001_2 2
+    100082: Marco_Ventana_Habitacion_Orfanato_001_3
+    100084: Marco_Ventana_Habitacion_Orfanato_001_3 1
+    100086: Marco_Ventana_Habitacion_Orfanato_001_3 2
+    100088: Marco_Ventana_Habitacion_Orfanato_001_4
+    100090: Marco_Ventana_Habitacion_Orfanato_001_4 1
+    100092: Marco_Ventana_Habitacion_Orfanato_001_4 2
+    100094: Marco_Ventana_Habitacion_Orfanato_001_5
+    100096: Marco_Ventana_Habitacion_Orfanato_001_5 1
+    100098: Marco_Ventana_Habitacion_Orfanato_001_5 2
+    100100: Marco_Ventana_Habitacion_Orfanato_001_6
+    100102: Marco_Ventana_Habitacion_Orfanato_001_6 1
+    100104: Marco_Ventana_Habitacion_Orfanato_001_6 2
+    100106: Pared_Habitacion_Orfanato_001
+    100108: Pared_Habitacion_Orfanato_002
+    100110: Pared_Habitacion_Orfanato_003
+    100112: Pared_Habitacion_Orfanato_004
+    100114: Paredes_Concreto_Hab_Orfanato_001
+    100116: Partes_Ventana_Habitacion_Orfanato_001
+    100118: Partes_Ventana_Habitacion_Orfanato_001 1
+    100120: Partes_Ventana_Habitacion_Orfanato_001 2
+    100122: Partes_Ventana_Habitacion_Orfanato_002
+    100124: Partes_Ventana_Habitacion_Orfanato_002 1
+    100126: Partes_Ventana_Habitacion_Orfanato_002 2
+    100128: Partes_Ventana_Habitacion_Orfanato_003
+    100130: Partes_Ventana_Habitacion_Orfanato_003 1
+    100132: Partes_Ventana_Habitacion_Orfanato_003 2
+    100134: Partes_Ventana_Habitacion_Orfanato_004
+    100136: Partes_Ventana_Habitacion_Orfanato_004 1
+    100138: Partes_Ventana_Habitacion_Orfanato_004 2
+    100140: Partes_Ventana_Habitacion_Orfanato_005
+    100142: Partes_Ventana_Habitacion_Orfanato_005 1
+    100144: Partes_Ventana_Habitacion_Orfanato_005 2
+    100146: Partes_Ventana_Habitacion_Orfanato_006
+    100148: Partes_Ventana_Habitacion_Orfanato_006 1
+    100150: Partes_Ventana_Habitacion_Orfanato_006 2
+    100152: Partes_Ventana_Habitacion_Orfanato_007
+    100154: Partes_Ventana_Habitacion_Orfanato_007 1
+    100156: Partes_Ventana_Habitacion_Orfanato_007 2
+    100158: Partes_Ventana_Habitacion_Orfanato_008
+    100160: Partes_Ventana_Habitacion_Orfanato_008 1
+    100162: Partes_Ventana_Habitacion_Orfanato_008 2
+    100164: Partes_Ventana_Habitacion_Orfanato_009
+    100166: Partes_Ventana_Habitacion_Orfanato_009 1
+    100168: Partes_Ventana_Habitacion_Orfanato_009 2
+    100170: Partes_Ventana_Habitacion_Orfanato_010
+    100172: Partes_Ventana_Habitacion_Orfanato_010 1
+    100174: Partes_Ventana_Habitacion_Orfanato_010 2
+    100176: Partes_Ventana_Habitacion_Orfanato_011
+    100178: Partes_Ventana_Habitacion_Orfanato_011 1
+    100180: Partes_Ventana_Habitacion_Orfanato_011 2
+    100182: Partes_Ventana_Habitacion_Orfanato_012
+    100184: Partes_Ventana_Habitacion_Orfanato_012 1
+    100186: Partes_Ventana_Habitacion_Orfanato_012 2
+    100188: Piso_Habitacion_Orfanato
+    100190: Placa_Hab_Orfanato_001
+    100192: Puerta_Hab_Orfanato_001
+    100194: Puerta_Hab_Orfanato_001 1
+    100196: Puerta_Hab_Orfanato_001 2
+    100198: Puerta_Habitacion_Orfanato_001
+    100200: Puerta_Habitacion_Orfanato_001 1
+    100202: Puerta_Habitacion_Orfanato_001 2
+    100204: Puerta_Habitacion_Orfanato_001 3
+    100206: Puerta_Habitacion_Orfanato_002
+    100208: Puerta_Habitacion_Orfanato_003
+    100210: Ventana_Habitacion_Orfanato_001
+    100212: Ventana_Habitacion_Orfanato_001 1
+    100214: Ventana_Habitacion_Orfanato_001 2
+    100216: Ventana_Habitacion_Orfanato_001 3
+    100218: Ventana_Habitacion_Orfanato_002
+    100220: Ventana_Habitacion_Orfanato_002 1
+    100222: Ventana_Habitacion_Orfanato_002 2
+    100224: Ventana_Habitacion_Orfanato_002 3
+    100226: Ventana_Habitacion_Orfanato_003
+    100228: Vidrio_Ventana_Habitacion_Orfanato_001
+    100230: Vidrio_Ventana_Habitacion_Orfanato_001 1
+    100232: Vidrio_Ventana_Habitacion_Orfanato_001 2
+    100234: Vidrio_Ventana_Habitacion_Orfanato_002
+    100236: Vidrio_Ventana_Habitacion_Orfanato_002 1
+    100238: Vidrio_Ventana_Habitacion_Orfanato_002 2
+    100240: Vigas_Habitacion_Orfanato_Frontales
+    100242: Vigas_Habitacion_Orfanato_Laterales
+    400000: //RootNode
+    400002: Lampara_Colgante
+    400004: Lampara_Colgante1
+    400006: Lampara_Colgante2
+    400008: Lampara_Colgante3
+    400010: Lampara_Colgante4
+    400012: Lampara_Colgante5
+    400014: Lampara_Colgante6
+    400016: Lampara_Colgante7
+    400018: Lampara_Colgante8
+    400020: Lamparas_Hab_Orfanato
+    400022: Manija_Metalica_Puerta_Hab_Orfanato_001_1
+    400024: Manija_Metalica_Puerta_Hab_Orfanato_001_1 1
+    400026: Manija_Metalica_Puerta_Hab_Orfanato_001_1 2
+    400028: Manija_Metalica_Puerta_Hab_Orfanato_001_2
+    400030: Manija_Metalica_Puerta_Hab_Orfanato_001_2 1
+    400032: Manija_Metalica_Puerta_Hab_Orfanato_001_2 2
+    400034: Manija_Metalica_Puerta_Hab_Orfanato_001_3
+    400036: Manija_Metalica_Puerta_Hab_Orfanato_001_3 1
+    400038: Manija_Metalica_Puerta_Hab_Orfanato_001_3 2
+    400040: Manija_Metalica_Puerta_Hab_Orfanato_001_4
+    400042: Manija_Metalica_Puerta_Hab_Orfanato_001_4 1
+    400044: Manija_Metalica_Puerta_Hab_Orfanato_001_4 2
+    400046: Manija_Metalica_Puerta_Hab_Orfanato_001_5
+    400048: Manija_Metalica_Puerta_Hab_Orfanato_001_5 1
+    400050: Manija_Metalica_Puerta_Hab_Orfanato_001_5 2
+    400052: Manija_Metalica_Puerta_Hab_Orfanato_001_6
+    400054: Manija_Metalica_Puerta_Hab_Orfanato_001_6 1
+    400056: Manija_Metalica_Puerta_Hab_Orfanato_001_6 2
+    400058: Manija_Metalica_Puerta_Hab_Orfanato_001_7
+    400060: Manija_Metalica_Puerta_Hab_Orfanato_001_7 1
+    400062: Manija_Metalica_Puerta_Hab_Orfanato_001_7 2
+    400064: Marco_Puerta_Hab_Orfanato_001
+    400066: Marco_Puerta_Hab_Orfanato_001 1
+    400068: Marco_Puerta_Hab_Orfanato_001 2
+    400070: Marco_Ventana_Habitacion_Orfanato_001_1
+    400072: Marco_Ventana_Habitacion_Orfanato_001_1 1
+    400074: Marco_Ventana_Habitacion_Orfanato_001_1 2
+    400076: Marco_Ventana_Habitacion_Orfanato_001_2
+    400078: Marco_Ventana_Habitacion_Orfanato_001_2 1
+    400080: Marco_Ventana_Habitacion_Orfanato_001_2 2
+    400082: Marco_Ventana_Habitacion_Orfanato_001_3
+    400084: Marco_Ventana_Habitacion_Orfanato_001_3 1
+    400086: Marco_Ventana_Habitacion_Orfanato_001_3 2
+    400088: Marco_Ventana_Habitacion_Orfanato_001_4
+    400090: Marco_Ventana_Habitacion_Orfanato_001_4 1
+    400092: Marco_Ventana_Habitacion_Orfanato_001_4 2
+    400094: Marco_Ventana_Habitacion_Orfanato_001_5
+    400096: Marco_Ventana_Habitacion_Orfanato_001_5 1
+    400098: Marco_Ventana_Habitacion_Orfanato_001_5 2
+    400100: Marco_Ventana_Habitacion_Orfanato_001_6
+    400102: Marco_Ventana_Habitacion_Orfanato_001_6 1
+    400104: Marco_Ventana_Habitacion_Orfanato_001_6 2
+    400106: Pared_Habitacion_Orfanato_001
+    400108: Pared_Habitacion_Orfanato_002
+    400110: Pared_Habitacion_Orfanato_003
+    400112: Pared_Habitacion_Orfanato_004
+    400114: Paredes_Concreto_Hab_Orfanato_001
+    400116: Partes_Ventana_Habitacion_Orfanato_001
+    400118: Partes_Ventana_Habitacion_Orfanato_001 1
+    400120: Partes_Ventana_Habitacion_Orfanato_001 2
+    400122: Partes_Ventana_Habitacion_Orfanato_002
+    400124: Partes_Ventana_Habitacion_Orfanato_002 1
+    400126: Partes_Ventana_Habitacion_Orfanato_002 2
+    400128: Partes_Ventana_Habitacion_Orfanato_003
+    400130: Partes_Ventana_Habitacion_Orfanato_003 1
+    400132: Partes_Ventana_Habitacion_Orfanato_003 2
+    400134: Partes_Ventana_Habitacion_Orfanato_004
+    400136: Partes_Ventana_Habitacion_Orfanato_004 1
+    400138: Partes_Ventana_Habitacion_Orfanato_004 2
+    400140: Partes_Ventana_Habitacion_Orfanato_005
+    400142: Partes_Ventana_Habitacion_Orfanato_005 1
+    400144: Partes_Ventana_Habitacion_Orfanato_005 2
+    400146: Partes_Ventana_Habitacion_Orfanato_006
+    400148: Partes_Ventana_Habitacion_Orfanato_006 1
+    400150: Partes_Ventana_Habitacion_Orfanato_006 2
+    400152: Partes_Ventana_Habitacion_Orfanato_007
+    400154: Partes_Ventana_Habitacion_Orfanato_007 1
+    400156: Partes_Ventana_Habitacion_Orfanato_007 2
+    400158: Partes_Ventana_Habitacion_Orfanato_008
+    400160: Partes_Ventana_Habitacion_Orfanato_008 1
+    400162: Partes_Ventana_Habitacion_Orfanato_008 2
+    400164: Partes_Ventana_Habitacion_Orfanato_009
+    400166: Partes_Ventana_Habitacion_Orfanato_009 1
+    400168: Partes_Ventana_Habitacion_Orfanato_009 2
+    400170: Partes_Ventana_Habitacion_Orfanato_010
+    400172: Partes_Ventana_Habitacion_Orfanato_010 1
+    400174: Partes_Ventana_Habitacion_Orfanato_010 2
+    400176: Partes_Ventana_Habitacion_Orfanato_011
+    400178: Partes_Ventana_Habitacion_Orfanato_011 1
+    400180: Partes_Ventana_Habitacion_Orfanato_011 2
+    400182: Partes_Ventana_Habitacion_Orfanato_012
+    400184: Partes_Ventana_Habitacion_Orfanato_012 1
+    400186: Partes_Ventana_Habitacion_Orfanato_012 2
+    400188: Piso_Habitacion_Orfanato
+    400190: Placa_Hab_Orfanato_001
+    400192: Puerta_Hab_Orfanato_001
+    400194: Puerta_Hab_Orfanato_001 1
+    400196: Puerta_Hab_Orfanato_001 2
+    400198: Puerta_Habitacion_Orfanato_001
+    400200: Puerta_Habitacion_Orfanato_001 1
+    400202: Puerta_Habitacion_Orfanato_001 2
+    400204: Puerta_Habitacion_Orfanato_001 3
+    400206: Puerta_Habitacion_Orfanato_002
+    400208: Puerta_Habitacion_Orfanato_003
+    400210: Ventana_Habitacion_Orfanato_001
+    400212: Ventana_Habitacion_Orfanato_001 1
+    400214: Ventana_Habitacion_Orfanato_001 2
+    400216: Ventana_Habitacion_Orfanato_001 3
+    400218: Ventana_Habitacion_Orfanato_002
+    400220: Ventana_Habitacion_Orfanato_002 1
+    400222: Ventana_Habitacion_Orfanato_002 2
+    400224: Ventana_Habitacion_Orfanato_002 3
+    400226: Ventana_Habitacion_Orfanato_003
+    400228: Vidrio_Ventana_Habitacion_Orfanato_001
+    400230: Vidrio_Ventana_Habitacion_Orfanato_001 1
+    400232: Vidrio_Ventana_Habitacion_Orfanato_001 2
+    400234: Vidrio_Ventana_Habitacion_Orfanato_002
+    400236: Vidrio_Ventana_Habitacion_Orfanato_002 1
+    400238: Vidrio_Ventana_Habitacion_Orfanato_002 2
+    400240: Vigas_Habitacion_Orfanato_Frontales
+    400242: Vigas_Habitacion_Orfanato_Laterales
+    2300000: Lampara_Colgante
+    2300002: Lampara_Colgante1
+    2300004: Lampara_Colgante2
+    2300006: Lampara_Colgante3
+    2300008: Lampara_Colgante4
+    2300010: Lampara_Colgante5
+    2300012: Lampara_Colgante6
+    2300014: Lampara_Colgante7
+    2300016: Lampara_Colgante8
+    2300018: Manija_Metalica_Puerta_Hab_Orfanato_001_1
+    2300020: Manija_Metalica_Puerta_Hab_Orfanato_001_1 1
+    2300022: Manija_Metalica_Puerta_Hab_Orfanato_001_1 2
+    2300024: Manija_Metalica_Puerta_Hab_Orfanato_001_2
+    2300026: Manija_Metalica_Puerta_Hab_Orfanato_001_2 1
+    2300028: Manija_Metalica_Puerta_Hab_Orfanato_001_2 2
+    2300030: Manija_Metalica_Puerta_Hab_Orfanato_001_3
+    2300032: Manija_Metalica_Puerta_Hab_Orfanato_001_3 1
+    2300034: Manija_Metalica_Puerta_Hab_Orfanato_001_3 2
+    2300036: Manija_Metalica_Puerta_Hab_Orfanato_001_4
+    2300038: Manija_Metalica_Puerta_Hab_Orfanato_001_4 1
+    2300040: Manija_Metalica_Puerta_Hab_Orfanato_001_4 2
+    2300042: Manija_Metalica_Puerta_Hab_Orfanato_001_5
+    2300044: Manija_Metalica_Puerta_Hab_Orfanato_001_5 1
+    2300046: Manija_Metalica_Puerta_Hab_Orfanato_001_5 2
+    2300048: Manija_Metalica_Puerta_Hab_Orfanato_001_6
+    2300050: Manija_Metalica_Puerta_Hab_Orfanato_001_6 1
+    2300052: Manija_Metalica_Puerta_Hab_Orfanato_001_6 2
+    2300054: Manija_Metalica_Puerta_Hab_Orfanato_001_7
+    2300056: Manija_Metalica_Puerta_Hab_Orfanato_001_7 1
+    2300058: Manija_Metalica_Puerta_Hab_Orfanato_001_7 2
+    2300060: Marco_Puerta_Hab_Orfanato_001
+    2300062: Marco_Puerta_Hab_Orfanato_001 1
+    2300064: Marco_Puerta_Hab_Orfanato_001 2
+    2300066: Marco_Ventana_Habitacion_Orfanato_001_1
+    2300068: Marco_Ventana_Habitacion_Orfanato_001_1 1
+    2300070: Marco_Ventana_Habitacion_Orfanato_001_1 2
+    2300072: Marco_Ventana_Habitacion_Orfanato_001_2
+    2300074: Marco_Ventana_Habitacion_Orfanato_001_2 1
+    2300076: Marco_Ventana_Habitacion_Orfanato_001_2 2
+    2300078: Marco_Ventana_Habitacion_Orfanato_001_3
+    2300080: Marco_Ventana_Habitacion_Orfanato_001_3 1
+    2300082: Marco_Ventana_Habitacion_Orfanato_001_3 2
+    2300084: Marco_Ventana_Habitacion_Orfanato_001_4
+    2300086: Marco_Ventana_Habitacion_Orfanato_001_4 1
+    2300088: Marco_Ventana_Habitacion_Orfanato_001_4 2
+    2300090: Marco_Ventana_Habitacion_Orfanato_001_5
+    2300092: Marco_Ventana_Habitacion_Orfanato_001_5 1
+    2300094: Marco_Ventana_Habitacion_Orfanato_001_5 2
+    2300096: Marco_Ventana_Habitacion_Orfanato_001_6
+    2300098: Marco_Ventana_Habitacion_Orfanato_001_6 1
+    2300100: Marco_Ventana_Habitacion_Orfanato_001_6 2
+    2300102: Pared_Habitacion_Orfanato_001
+    2300104: Pared_Habitacion_Orfanato_002
+    2300106: Pared_Habitacion_Orfanato_003
+    2300108: Pared_Habitacion_Orfanato_004
+    2300110: Partes_Ventana_Habitacion_Orfanato_001
+    2300112: Partes_Ventana_Habitacion_Orfanato_001 1
+    2300114: Partes_Ventana_Habitacion_Orfanato_001 2
+    2300116: Partes_Ventana_Habitacion_Orfanato_002
+    2300118: Partes_Ventana_Habitacion_Orfanato_002 1
+    2300120: Partes_Ventana_Habitacion_Orfanato_002 2
+    2300122: Partes_Ventana_Habitacion_Orfanato_003
+    2300124: Partes_Ventana_Habitacion_Orfanato_003 1
+    2300126: Partes_Ventana_Habitacion_Orfanato_003 2
+    2300128: Partes_Ventana_Habitacion_Orfanato_004
+    2300130: Partes_Ventana_Habitacion_Orfanato_004 1
+    2300132: Partes_Ventana_Habitacion_Orfanato_004 2
+    2300134: Partes_Ventana_Habitacion_Orfanato_005
+    2300136: Partes_Ventana_Habitacion_Orfanato_005 1
+    2300138: Partes_Ventana_Habitacion_Orfanato_005 2
+    2300140: Partes_Ventana_Habitacion_Orfanato_006
+    2300142: Partes_Ventana_Habitacion_Orfanato_006 1
+    2300144: Partes_Ventana_Habitacion_Orfanato_006 2
+    2300146: Partes_Ventana_Habitacion_Orfanato_007
+    2300148: Partes_Ventana_Habitacion_Orfanato_007 1
+    2300150: Partes_Ventana_Habitacion_Orfanato_007 2
+    2300152: Partes_Ventana_Habitacion_Orfanato_008
+    2300154: Partes_Ventana_Habitacion_Orfanato_008 1
+    2300156: Partes_Ventana_Habitacion_Orfanato_008 2
+    2300158: Partes_Ventana_Habitacion_Orfanato_009
+    2300160: Partes_Ventana_Habitacion_Orfanato_009 1
+    2300162: Partes_Ventana_Habitacion_Orfanato_009 2
+    2300164: Partes_Ventana_Habitacion_Orfanato_010
+    2300166: Partes_Ventana_Habitacion_Orfanato_010 1
+    2300168: Partes_Ventana_Habitacion_Orfanato_010 2
+    2300170: Partes_Ventana_Habitacion_Orfanato_011
+    2300172: Partes_Ventana_Habitacion_Orfanato_011 1
+    2300174: Partes_Ventana_Habitacion_Orfanato_011 2
+    2300176: Partes_Ventana_Habitacion_Orfanato_012
+    2300178: Partes_Ventana_Habitacion_Orfanato_012 1
+    2300180: Partes_Ventana_Habitacion_Orfanato_012 2
+    2300182: Piso_Habitacion_Orfanato
+    2300184: Placa_Hab_Orfanato_001
+    2300186: Puerta_Habitacion_Orfanato_001 1
+    2300188: Puerta_Habitacion_Orfanato_001 2
+    2300190: Puerta_Habitacion_Orfanato_001 3
+    2300192: Vidrio_Ventana_Habitacion_Orfanato_001
+    2300194: Vidrio_Ventana_Habitacion_Orfanato_001 1
+    2300196: Vidrio_Ventana_Habitacion_Orfanato_001 2
+    2300198: Vidrio_Ventana_Habitacion_Orfanato_002
+    2300200: Vidrio_Ventana_Habitacion_Orfanato_002 1
+    2300202: Vidrio_Ventana_Habitacion_Orfanato_002 2
+    2300204: Vigas_Habitacion_Orfanato_Frontales
+    2300206: Vigas_Habitacion_Orfanato_Laterales
+    3300000: Lampara_Colgante
+    3300002: Lampara_Colgante1
+    3300004: Lampara_Colgante2
+    3300006: Lampara_Colgante3
+    3300008: Lampara_Colgante4
+    3300010: Lampara_Colgante5
+    3300012: Lampara_Colgante6
+    3300014: Lampara_Colgante7
+    3300016: Lampara_Colgante8
+    3300018: Manija_Metalica_Puerta_Hab_Orfanato_001_1
+    3300020: Manija_Metalica_Puerta_Hab_Orfanato_001_1 1
+    3300022: Manija_Metalica_Puerta_Hab_Orfanato_001_1 2
+    3300024: Manija_Metalica_Puerta_Hab_Orfanato_001_2
+    3300026: Manija_Metalica_Puerta_Hab_Orfanato_001_2 1
+    3300028: Manija_Metalica_Puerta_Hab_Orfanato_001_2 2
+    3300030: Manija_Metalica_Puerta_Hab_Orfanato_001_3
+    3300032: Manija_Metalica_Puerta_Hab_Orfanato_001_3 1
+    3300034: Manija_Metalica_Puerta_Hab_Orfanato_001_3 2
+    3300036: Manija_Metalica_Puerta_Hab_Orfanato_001_4
+    3300038: Manija_Metalica_Puerta_Hab_Orfanato_001_4 1
+    3300040: Manija_Metalica_Puerta_Hab_Orfanato_001_4 2
+    3300042: Manija_Metalica_Puerta_Hab_Orfanato_001_5
+    3300044: Manija_Metalica_Puerta_Hab_Orfanato_001_5 1
+    3300046: Manija_Metalica_Puerta_Hab_Orfanato_001_5 2
+    3300048: Manija_Metalica_Puerta_Hab_Orfanato_001_6
+    3300050: Manija_Metalica_Puerta_Hab_Orfanato_001_6 1
+    3300052: Manija_Metalica_Puerta_Hab_Orfanato_001_6 2
+    3300054: Manija_Metalica_Puerta_Hab_Orfanato_001_7
+    3300056: Manija_Metalica_Puerta_Hab_Orfanato_001_7 1
+    3300058: Manija_Metalica_Puerta_Hab_Orfanato_001_7 2
+    3300060: Marco_Puerta_Hab_Orfanato_001
+    3300062: Marco_Puerta_Hab_Orfanato_001 1
+    3300064: Marco_Puerta_Hab_Orfanato_001 2
+    3300066: Marco_Ventana_Habitacion_Orfanato_001_1
+    3300068: Marco_Ventana_Habitacion_Orfanato_001_1 1
+    3300070: Marco_Ventana_Habitacion_Orfanato_001_1 2
+    3300072: Marco_Ventana_Habitacion_Orfanato_001_2
+    3300074: Marco_Ventana_Habitacion_Orfanato_001_2 1
+    3300076: Marco_Ventana_Habitacion_Orfanato_001_2 2
+    3300078: Marco_Ventana_Habitacion_Orfanato_001_3
+    3300080: Marco_Ventana_Habitacion_Orfanato_001_3 1
+    3300082: Marco_Ventana_Habitacion_Orfanato_001_3 2
+    3300084: Marco_Ventana_Habitacion_Orfanato_001_4
+    3300086: Marco_Ventana_Habitacion_Orfanato_001_4 1
+    3300088: Marco_Ventana_Habitacion_Orfanato_001_4 2
+    3300090: Marco_Ventana_Habitacion_Orfanato_001_5
+    3300092: Marco_Ventana_Habitacion_Orfanato_001_5 1
+    3300094: Marco_Ventana_Habitacion_Orfanato_001_5 2
+    3300096: Marco_Ventana_Habitacion_Orfanato_001_6
+    3300098: Marco_Ventana_Habitacion_Orfanato_001_6 1
+    3300100: Marco_Ventana_Habitacion_Orfanato_001_6 2
+    3300102: Pared_Habitacion_Orfanato_001
+    3300104: Pared_Habitacion_Orfanato_002
+    3300106: Pared_Habitacion_Orfanato_003
+    3300108: Pared_Habitacion_Orfanato_004
+    3300110: Partes_Ventana_Habitacion_Orfanato_001
+    3300112: Partes_Ventana_Habitacion_Orfanato_001 1
+    3300114: Partes_Ventana_Habitacion_Orfanato_001 2
+    3300116: Partes_Ventana_Habitacion_Orfanato_002
+    3300118: Partes_Ventana_Habitacion_Orfanato_002 1
+    3300120: Partes_Ventana_Habitacion_Orfanato_002 2
+    3300122: Partes_Ventana_Habitacion_Orfanato_003
+    3300124: Partes_Ventana_Habitacion_Orfanato_003 1
+    3300126: Partes_Ventana_Habitacion_Orfanato_003 2
+    3300128: Partes_Ventana_Habitacion_Orfanato_004
+    3300130: Partes_Ventana_Habitacion_Orfanato_004 1
+    3300132: Partes_Ventana_Habitacion_Orfanato_004 2
+    3300134: Partes_Ventana_Habitacion_Orfanato_005
+    3300136: Partes_Ventana_Habitacion_Orfanato_005 1
+    3300138: Partes_Ventana_Habitacion_Orfanato_005 2
+    3300140: Partes_Ventana_Habitacion_Orfanato_006
+    3300142: Partes_Ventana_Habitacion_Orfanato_006 1
+    3300144: Partes_Ventana_Habitacion_Orfanato_006 2
+    3300146: Partes_Ventana_Habitacion_Orfanato_007
+    3300148: Partes_Ventana_Habitacion_Orfanato_007 1
+    3300150: Partes_Ventana_Habitacion_Orfanato_007 2
+    3300152: Partes_Ventana_Habitacion_Orfanato_008
+    3300154: Partes_Ventana_Habitacion_Orfanato_008 1
+    3300156: Partes_Ventana_Habitacion_Orfanato_008 2
+    3300158: Partes_Ventana_Habitacion_Orfanato_009
+    3300160: Partes_Ventana_Habitacion_Orfanato_009 1
+    3300162: Partes_Ventana_Habitacion_Orfanato_009 2
+    3300164: Partes_Ventana_Habitacion_Orfanato_010
+    3300166: Partes_Ventana_Habitacion_Orfanato_010 1
+    3300168: Partes_Ventana_Habitacion_Orfanato_010 2
+    3300170: Partes_Ventana_Habitacion_Orfanato_011
+    3300172: Partes_Ventana_Habitacion_Orfanato_011 1
+    3300174: Partes_Ventana_Habitacion_Orfanato_011 2
+    3300176: Partes_Ventana_Habitacion_Orfanato_012
+    3300178: Partes_Ventana_Habitacion_Orfanato_012 1
+    3300180: Partes_Ventana_Habitacion_Orfanato_012 2
+    3300182: Piso_Habitacion_Orfanato
+    3300184: Placa_Hab_Orfanato_001
+    3300186: Puerta_Habitacion_Orfanato_001 1
+    3300188: Puerta_Habitacion_Orfanato_001 2
+    3300190: Puerta_Habitacion_Orfanato_001 3
+    3300192: Vidrio_Ventana_Habitacion_Orfanato_001
+    3300194: Vidrio_Ventana_Habitacion_Orfanato_001 1
+    3300196: Vidrio_Ventana_Habitacion_Orfanato_001 2
+    3300198: Vidrio_Ventana_Habitacion_Orfanato_002
+    3300200: Vidrio_Ventana_Habitacion_Orfanato_002 1
+    3300202: Vidrio_Ventana_Habitacion_Orfanato_002 2
+    3300204: Vigas_Habitacion_Orfanato_Frontales
+    3300206: Vigas_Habitacion_Orfanato_Laterales
+    4300000: Marco_Puerta_Hab_Orfanato_001
+    4300002: Puerta_Habitacion_Orfanato_001
+    4300004: Manija_Metalica_Puerta_Hab_Orfanato_001_7
+    4300006: Manija_Metalica_Puerta_Hab_Orfanato_001_6
+    4300008: Manija_Metalica_Puerta_Hab_Orfanato_001_5
+    4300010: Manija_Metalica_Puerta_Hab_Orfanato_001_4
+    4300012: Manija_Metalica_Puerta_Hab_Orfanato_001_3
+    4300014: Manija_Metalica_Puerta_Hab_Orfanato_001_2
+    4300016: Manija_Metalica_Puerta_Hab_Orfanato_001_1
+    4300018: Marco_Ventana_Habitacion_Orfanato_001_1
+    4300020: Marco_Ventana_Habitacion_Orfanato_001_2
+    4300022: Marco_Ventana_Habitacion_Orfanato_001_3
+    4300024: Marco_Ventana_Habitacion_Orfanato_001_4
+    4300026: Marco_Ventana_Habitacion_Orfanato_001_5
+    4300028: Marco_Ventana_Habitacion_Orfanato_001_6
+    4300030: Vidrio_Ventana_Habitacion_Orfanato_001
+    4300032: Partes_Ventana_Habitacion_Orfanato_001
+    4300034: Partes_Ventana_Habitacion_Orfanato_002
+    4300036: Partes_Ventana_Habitacion_Orfanato_003
+    4300038: Partes_Ventana_Habitacion_Orfanato_004
+    4300040: Partes_Ventana_Habitacion_Orfanato_005
+    4300042: Partes_Ventana_Habitacion_Orfanato_006
+    4300044: Vidrio_Ventana_Habitacion_Orfanato_002
+    4300046: Partes_Ventana_Habitacion_Orfanato_007
+    4300048: Partes_Ventana_Habitacion_Orfanato_008
+    4300050: Partes_Ventana_Habitacion_Orfanato_009
+    4300052: Partes_Ventana_Habitacion_Orfanato_010
+    4300054: Partes_Ventana_Habitacion_Orfanato_011
+    4300056: Partes_Ventana_Habitacion_Orfanato_012
+    4300058: Marco_Ventana_Habitacion_Orfanato_001_1
+    4300060: Marco_Ventana_Habitacion_Orfanato_001_2
+    4300062: Marco_Ventana_Habitacion_Orfanato_001_3
+    4300064: Marco_Ventana_Habitacion_Orfanato_001_4
+    4300066: Marco_Ventana_Habitacion_Orfanato_001_5
+    4300068: Marco_Ventana_Habitacion_Orfanato_001_6
+    4300070: Vidrio_Ventana_Habitacion_Orfanato_001
+    4300072: Partes_Ventana_Habitacion_Orfanato_001
+    4300074: Partes_Ventana_Habitacion_Orfanato_002
+    4300076: Partes_Ventana_Habitacion_Orfanato_003
+    4300078: Partes_Ventana_Habitacion_Orfanato_004
+    4300080: Partes_Ventana_Habitacion_Orfanato_005
+    4300082: Partes_Ventana_Habitacion_Orfanato_006
+    4300084: Vidrio_Ventana_Habitacion_Orfanato_002
+    4300086: Partes_Ventana_Habitacion_Orfanato_007
+    4300088: Partes_Ventana_Habitacion_Orfanato_008
+    4300090: Partes_Ventana_Habitacion_Orfanato_009
+    4300092: Partes_Ventana_Habitacion_Orfanato_010
+    4300094: Partes_Ventana_Habitacion_Orfanato_011
+    4300096: Partes_Ventana_Habitacion_Orfanato_012
+    4300098: Marco_Ventana_Habitacion_Orfanato_001_1
+    4300100: Marco_Ventana_Habitacion_Orfanato_001_2
+    4300102: Marco_Ventana_Habitacion_Orfanato_001_3
+    4300104: Marco_Ventana_Habitacion_Orfanato_001_4
+    4300106: Marco_Ventana_Habitacion_Orfanato_001_5
+    4300108: Marco_Ventana_Habitacion_Orfanato_001_6
+    4300110: Vidrio_Ventana_Habitacion_Orfanato_001
+    4300112: Partes_Ventana_Habitacion_Orfanato_001
+    4300114: Partes_Ventana_Habitacion_Orfanato_002
+    4300116: Partes_Ventana_Habitacion_Orfanato_003
+    4300118: Partes_Ventana_Habitacion_Orfanato_004
+    4300120: Partes_Ventana_Habitacion_Orfanato_005
+    4300122: Partes_Ventana_Habitacion_Orfanato_006
+    4300124: Vidrio_Ventana_Habitacion_Orfanato_002
+    4300126: Partes_Ventana_Habitacion_Orfanato_007
+    4300128: Partes_Ventana_Habitacion_Orfanato_008
+    4300130: Partes_Ventana_Habitacion_Orfanato_009
+    4300132: Partes_Ventana_Habitacion_Orfanato_010
+    4300134: Partes_Ventana_Habitacion_Orfanato_011
+    4300136: Partes_Ventana_Habitacion_Orfanato_012
+    4300138: Piso_Habitacion_Orfanato
+    4300140: Vigas_Habitacion_Orfanato_Laterales
+    4300142: Vigas_Habitacion_Orfanato_Frontales
+    4300144: Pared_Habitacion_Orfanato_001
+    4300146: Pared_Habitacion_Orfanato_002
+    4300148: Pared_Habitacion_Orfanato_003
+    4300150: Pared_Habitacion_Orfanato_004
+    4300152: Placa_Hab_Orfanato_001
+    4300154: Marco_Puerta_Hab_Orfanato_001
+    4300156: Puerta_Habitacion_Orfanato_001
+    4300158: Manija_Metalica_Puerta_Hab_Orfanato_001_4
+    4300160: Manija_Metalica_Puerta_Hab_Orfanato_001_6
+    4300162: Manija_Metalica_Puerta_Hab_Orfanato_001_5
+    4300164: Manija_Metalica_Puerta_Hab_Orfanato_001_2
+    4300166: Manija_Metalica_Puerta_Hab_Orfanato_001_3
+    4300168: Manija_Metalica_Puerta_Hab_Orfanato_001_1
+    4300170: Manija_Metalica_Puerta_Hab_Orfanato_001_7
+    4300172: Marco_Puerta_Hab_Orfanato_001
+    4300174: Puerta_Habitacion_Orfanato_001
+    4300176: Manija_Metalica_Puerta_Hab_Orfanato_001_7
+    4300178: Manija_Metalica_Puerta_Hab_Orfanato_001_6
+    4300180: Manija_Metalica_Puerta_Hab_Orfanato_001_5
+    4300182: Manija_Metalica_Puerta_Hab_Orfanato_001_4
+    4300184: Manija_Metalica_Puerta_Hab_Orfanato_001_3
+    4300186: Manija_Metalica_Puerta_Hab_Orfanato_001_2
+    4300188: Manija_Metalica_Puerta_Hab_Orfanato_001_1
+    4300190: Lampara_Colgante
+    4300192: Lampara_Colgante1
+    4300194: Lampara_Colgante2
+    4300196: Lampara_Colgante3
+    4300198: Lampara_Colgante4
+    4300200: Lampara_Colgante5
+    4300202: Lampara_Colgante6
+    4300204: Lampara_Colgante7
+    4300206: Lampara_Colgante8
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SHD_Concreto_Hab_Orfanato1
+    second: {fileID: 2100000, guid: 5285e518f022e994ebf2fbb8ceca098f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SHD_Metal_Lampara_Hab_Orfanato
+    second: {fileID: 2100000, guid: 4bea83d4e491f2a44b0c8f1a686cd3dd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SHD_Piso_Hab_Orfanato
+    second: {fileID: 2100000, guid: 901d24635d14a1f48b44d74361f78704, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SHD_Puerta_Hab_Orfanato
+    second: {fileID: 2100000, guid: bc3d47297c2fdd84a93bacddfc164ed6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__SHD_Madera_Puertas_Ventanas2
+    second: {fileID: 2100000, guid: 03fcba88f0b3cc1468a9e6ce6a5a7a9e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__SHD_Metal
+    second: {fileID: 2100000, guid: c60694e5ac2a1704b99a9a0875a87aef, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__SHD_Vidrio_Orfanato1
+    second: {fileID: 2100000, guid: 2f6f3dbf3446cdf4e90e9448859d7d85, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
