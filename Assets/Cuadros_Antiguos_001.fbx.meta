@@ -1,0 +1,183 @@
+fileFormatVersion: 2
+guid: 8bd5c1339fc6b3341a5973eca6643804
+timeCreated: 1510101247
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Cuadro_Allison
+    100002: Cuadro_Andres
+    100004: Cuadro_Camila
+    100006: Cuadro_Daniel
+    100008: Cuadro_Fabian
+    100010: Cuadro_Instru
+    100012: Cuadro_Johan
+    100014: Cuadro_Kathia
+    100016: Cuadro_Maira
+    100018: Cuadro_Paola
+    100020: Cuadro_Polanco
+    100022: Cuadro_Rodrigo
+    100024: Cuadro_Sergio
+    100026: Cuadro_Wilmer
+    100028: //RootNode
+    100030: Cuadros_Ovalos
+    100032: Cuadros_Rectangulares001
+    100034: Cuadros_Rectangulares002
+    400000: Cuadro_Allison
+    400002: Cuadro_Andres
+    400004: Cuadro_Camila
+    400006: Cuadro_Daniel
+    400008: Cuadro_Fabian
+    400010: Cuadro_Instru
+    400012: Cuadro_Johan
+    400014: Cuadro_Kathia
+    400016: Cuadro_Maira
+    400018: Cuadro_Paola
+    400020: Cuadro_Polanco
+    400022: Cuadro_Rodrigo
+    400024: Cuadro_Sergio
+    400026: Cuadro_Wilmer
+    400028: //RootNode
+    400030: Cuadros_Ovalos
+    400032: Cuadros_Rectangulares001
+    400034: Cuadros_Rectangulares002
+    2300000: Cuadro_Allison
+    2300002: Cuadro_Andres
+    2300004: Cuadro_Camila
+    2300006: Cuadro_Daniel
+    2300008: Cuadro_Fabian
+    2300010: Cuadro_Instru
+    2300012: Cuadro_Johan
+    2300014: Cuadro_Kathia
+    2300016: Cuadro_Maira
+    2300018: Cuadro_Paola
+    2300020: Cuadro_Polanco
+    2300022: Cuadro_Rodrigo
+    2300024: Cuadro_Sergio
+    2300026: Cuadro_Wilmer
+    3300000: Cuadro_Allison
+    3300002: Cuadro_Andres
+    3300004: Cuadro_Camila
+    3300006: Cuadro_Daniel
+    3300008: Cuadro_Fabian
+    3300010: Cuadro_Instru
+    3300012: Cuadro_Johan
+    3300014: Cuadro_Kathia
+    3300016: Cuadro_Maira
+    3300018: Cuadro_Paola
+    3300020: Cuadro_Polanco
+    3300022: Cuadro_Rodrigo
+    3300024: Cuadro_Sergio
+    3300026: Cuadro_Wilmer
+    4300000: Cuadro_Polanco
+    4300002: Cuadro_Sergio
+    4300004: Cuadro_Allison
+    4300006: Cuadro_Wilmer
+    4300008: Cuadro_Andres
+    4300010: Cuadro_Daniel
+    4300012: Cuadro_Paola
+    4300014: Cuadro_Maira
+    4300016: Cuadro_Camila
+    4300018: Cuadro_Rodrigo
+    4300020: Cuadro_Instru
+    4300022: Cuadro_Fabian
+    4300024: Cuadro_Kathia
+    4300026: Cuadro_Johan
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Tex_Cuadro_Rectangulo01
+    second: {fileID: 2100000, guid: c4680123eef58bb42849855a07c26e6c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Tex_Cuadro_Rectangulo02
+    second: {fileID: 2100000, guid: e6b4c0c5e8a455d428066ba7e1a6ea14, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Tex_Cuadros
+    second: {fileID: 2100000, guid: c38325477840f214eb5f1b43dbf9c329, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Tex_Foto_001
+    second: {fileID: 2100000, guid: 7919fa3491370464482483e6732c360d, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
