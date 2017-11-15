@@ -1,0 +1,235 @@
+fileFormatVersion: 2
+guid: e024368275cd22e42898d54e844abb91
+timeCreated: 1510709989
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: ejes
+    100002: llantas
+    100004: pCube11
+    100006: pCube12
+    100008: pCube26
+    100010: pCube27
+    100012: pCube28
+    100014: pCube3
+    100016: pCube33
+    100018: pCube34
+    100020: pCube35
+    100022: pCube36
+    100024: pCube37
+    100026: pCube38
+    100028: pCube39
+    100030: pCube5
+    100032: pCube6
+    100034: pCube7
+    100036: pCylinder6
+    100038: pCylinder7
+    100040: pCylinder8
+    100042: polySurface10
+    100044: polySurface11
+    100046: polySurface12
+    100048: pPipe1
+    100050: tanque
+    100052: techo
+    100054: //RootNode
+    400000: ejes
+    400002: llantas
+    400004: pCube11
+    400006: pCube12
+    400008: pCube26
+    400010: pCube27
+    400012: pCube28
+    400014: pCube3
+    400016: pCube33
+    400018: pCube34
+    400020: pCube35
+    400022: pCube36
+    400024: pCube37
+    400026: pCube38
+    400028: pCube39
+    400030: pCube5
+    400032: pCube6
+    400034: pCube7
+    400036: pCylinder6
+    400038: pCylinder7
+    400040: pCylinder8
+    400042: polySurface10
+    400044: polySurface11
+    400046: polySurface12
+    400048: pPipe1
+    400050: tanque
+    400052: techo
+    400054: //RootNode
+    2300000: pCube11
+    2300002: pCube12
+    2300004: pCube26
+    2300006: pCube27
+    2300008: pCube28
+    2300010: pCube3
+    2300012: pCube33
+    2300014: pCube34
+    2300016: pCube35
+    2300018: pCube36
+    2300020: pCube37
+    2300022: pCube38
+    2300024: pCube39
+    2300026: pCube5
+    2300028: pCube6
+    2300030: pCube7
+    2300032: pCylinder6
+    2300034: pCylinder7
+    2300036: pCylinder8
+    2300038: polySurface10
+    2300040: polySurface11
+    2300042: polySurface12
+    2300044: pPipe1
+    3300000: pCube11
+    3300002: pCube12
+    3300004: pCube26
+    3300006: pCube27
+    3300008: pCube28
+    3300010: pCube3
+    3300012: pCube33
+    3300014: pCube34
+    3300016: pCube35
+    3300018: pCube36
+    3300020: pCube37
+    3300022: pCube38
+    3300024: pCube39
+    3300026: pCube5
+    3300028: pCube6
+    3300030: pCube7
+    3300032: pCylinder6
+    3300034: pCylinder7
+    3300036: pCylinder8
+    3300038: polySurface10
+    3300040: polySurface11
+    3300042: polySurface12
+    3300044: pPipe1
+    4300000: pPipe1
+    4300002: pCylinder6
+    4300004: pCylinder7
+    4300006: pCylinder8
+    4300008: pCube12
+    4300010: pCube11
+    4300012: pCube33
+    4300014: pCube28
+    4300016: pCube34
+    4300018: pCube35
+    4300020: pCube36
+    4300022: pCube37
+    4300024: pCube38
+    4300026: pCube39
+    4300028: polySurface12
+    4300030: polySurface11
+    4300032: polySurface10
+    4300034: pCube27
+    4300036: pCube26
+    4300038: pCube5
+    4300040: pCube3
+    4300042: pCube7
+    4300044: pCube6
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Tex_Amarillo
+    second: {fileID: 2100000, guid: 7ec76d575a070764c90495a2aace43d2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Tex_Azul
+    second: {fileID: 2100000, guid: df929586a24f1fb478583103472ecf41, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Tex_Naranja
+    second: {fileID: 2100000, guid: fd091ad99dca90743b8e811ab4b02d08, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Tex_Rojo
+    second: {fileID: 2100000, guid: df4cfc0b7be466e47b6ff8faeaa37eeb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Tex_Verde
+    second: {fileID: 2100000, guid: cbabe76b7acded74c8b6fedbbecaaef2, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
